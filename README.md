@@ -1,5 +1,5 @@
 # DSA-mastery
-DSA I will try to cover all topics in this repo
+I will try to cover all topics in this repo
 
 ![Design preview of my Weather App](./dsabook.png)
 
