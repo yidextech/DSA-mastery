@@ -72,7 +72,12 @@ class HashMap:
             if pair:
                 print(pair.key, pair.value)
 
+
+#Examples 
+
 hashMap = HashMap()
+
+#Adding items to our hash table
 hashMap.put("alex", 21)
 hashMap.put("merry", 17)
 hashMap.put("chuck", 35)
@@ -82,6 +87,7 @@ hashMap.put("jessy", 24)
 
 hashMap.print()
 
+# removing
 hashMap.remove("chuck")
 hashMap.remove("sarah")
 
